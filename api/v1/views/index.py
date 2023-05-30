@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 Index page of our api
 """
