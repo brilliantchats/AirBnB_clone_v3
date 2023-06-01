@@ -24,7 +24,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 ## Installation
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
-* Run hbnb(interactively): `./console` and enter command
+* Run hbnb(interactively): `./console` and enter command 
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
 ## File Descriptions
@@ -159,4 +159,4 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection 
